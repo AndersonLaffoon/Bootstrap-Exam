@@ -1,0 +1,21 @@
+html,
+body {
+    height: 100%;
+    font-size: 1rem;
+    font-family: 'Basic', sans-serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.gradient {
+    background: rgb(44,255,0);
+    background: linear-gradient(90deg, rgba(44,255,0,1) 0%, rgba(0,255,231,1) 50%, rgba(202,255,0,1) 100%);
+}
+.page-header {
+    margin-top: 125px;
+}
+.page-header img {
+    border-radius: 100px;
+}
+.navbar-brand img {
+    border-radius: 15px;
+}
