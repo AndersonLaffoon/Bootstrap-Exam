@@ -19,3 +19,37 @@ body {
 .navbar-brand img {
     border-radius: 15px;
 }
+.g-5 img {
+    border-radius: 50px;
+}
+.feature {
+    margin-top: 50px;
+    color: navy;
+}
+.companies {
+    margin-top: 50px;
+}
+.feature img {
+    border-radius: 50px;
+}
+.feature ul {
+    padding-left: 2rem;
+    list-style-type: none;
+}
+.feature ul li {
+    padding-left: 2rem;
+    background-image: url(img/mongus.jpg);
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+}
+.icon {
+    color: navy;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
