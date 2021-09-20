@@ -54,5 +54,26 @@ body {
     justify-content: center;
 }
 .gallery {
-    background: whitesmoke;
+    background: grey;
+}
+.gallery img {
+    border-radius: 5%;
+}
+.services {
+    color: navy;
+}
+.services img {
+    border-radius: 20%;
+}
+.contact img {
+    border-radius: 20%;
+}
+footer {
+    color: navy;
+    font-size: 1rem;
+    margin: 0%;
+    padding: 1rem;
+}
+.contact {
+    margin-bottom: 1rem;
 }
